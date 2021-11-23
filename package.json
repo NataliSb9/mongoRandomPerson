@@ -1,0 +1,20 @@
+{
+  "name": "randomuser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "mongoose": "^6.0.13",
+    "node": "^17.1.0",
+    "node-fetch": "^2.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

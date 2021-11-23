@@ -1,0 +1,25 @@
+{
+  "name": "api_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejemplos.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliSb9/API_MONGO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliSb9/API_MONGO/issues"
+  },
+  "homepage": "https://github.com/NataliSb9/API_MONGO#readme"
+}
